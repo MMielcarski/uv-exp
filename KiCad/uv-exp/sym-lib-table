@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name uv-exp-custom)(type Legacy)(uri ${KIPRJMOD}/uv-exp-custom.lib)(options "")(descr ""))
+  (lib (name uv-exp)(type Legacy)(uri /home/maciej/Documents/PWR/PP/naswietlarka/schemat/uv-exp/lib/uv-exp.lib)(options "")(descr ""))
+)

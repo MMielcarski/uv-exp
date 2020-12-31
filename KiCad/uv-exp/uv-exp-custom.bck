@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LS46
+D BCD to 7-segment Driver, Open Collector, 15V outputs
+K TTL DECOD DECOD7 OpenCol
+F http://www.ti.com/lit/gpn/sn74LS46
+$ENDCMP
+#
+$CMP CD74HC4511M
+D BCD to 7-segment Driver, Open Collector, 30V outputs
+K TTL DECOD DECOD7 OpenCol
+F https://www.ti.com/lit/ds/symlink/cd74hc4511.pdf?ts=1609089306647&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FCD74HC4511%253FHQS%253DTI-null-null-octopart-df-pf-null-wwe
+$ENDCMP
+#
+$CMP KW3-361AVA
+D One digit 7 segment yellow, common anode
+K display LED 7-segment
+F https://www.tme.eu/Document/29a3ffb6f22aeffcc5ba18977b288892/KW3-361xVA.pdf
+$ENDCMP
+#
+$CMP KW3-361CVA
+D One digit 7 segment yellow, common anode
+K display LED 7-segment
+F https://www.tme.eu/Document/29a3ffb6f22aeffcc5ba18977b288892/KW3-361xVA.pdf
+$ENDCMP
+#
+#End Doc Library
